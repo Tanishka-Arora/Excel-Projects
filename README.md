@@ -16,21 +16,27 @@ DATA CLEANING and DATA PREPARATION
 CREATING PIVOT TABLES AND ANALYZING DATA
 
 ```CHANNEL SALES```
+
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/9f4ed5ea-eb48-45ac-86fa-5aa2f2549502)
 
 ```AGE-GENDER```
+
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/2364699b-be53-494f-87db-e87ed469125c)
 
 ```TOP 10 STATES```
+
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/79228131-5ae0-464f-8349-731df52ccd7b)
 
 ```ORDER STATUS```
+
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/563a58a6-9ad6-4ddd-a27f-8469b5bb7ef6)
 
 ```SALES-MEN VS WOMEN```
+
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/fca5a7b8-ba8b-408b-a147-15c871859d02)
 
 ```SALES VS ORDER```
+
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/06470cc0-e334-4202-8662-5f6dba4982e1)
 
 
