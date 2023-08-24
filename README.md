@@ -9,11 +9,13 @@ The project is to provide in-depth analysis to help the store owners understand 
 
 Skills: Visualization · Pivot Tables · Operative Dashboard · Sales Presentations · Data Cleaning · Data Processing · Microsoft Excel · Data Visualization · Data Analysis
 
-DATA CLEANING and DATA PREPARATION
+PROCESS:
+
+STEP 1-DATA CLEANING and DATA PREPARATION
 
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/257f518f-8527-4bb8-9409-7b1cb69140f1)
 
-CREATING PIVOT TABLES AND ANALYZING DATA
+STEP 2-CREATING PIVOT TABLES AND ANALYZING DATA
 
 ```CHANNEL SALES```
 
@@ -40,9 +42,14 @@ CREATING PIVOT TABLES AND ANALYZING DATA
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/06470cc0-e334-4202-8662-5f6dba4982e1)
 
 
-```CREATING CHARTS```
+3-CREATING CHARTS
 
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/a49a92f5-bd48-43a6-8c0b-626daf573675) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/ddc900c8-37b4-4c2a-8e24-36a942841fd4) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/ff541ed8-859c-4630-8bf7-dadb6e7fd7ff) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/8ea1b2dc-f613-431d-9dc3-e32d03262593) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/8f9931c2-27b2-4606-b320-024421e39a8e) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/2186b7d5-13ca-40a1-a90f-e6706d0ab23c)
+
+4-DASHBOARD CREATION
+
+![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/3cb81ddb-eff7-4f7e-9cf1-11fc3a04fee8)
+
 
 
 
