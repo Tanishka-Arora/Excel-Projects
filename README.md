@@ -8,7 +8,7 @@ Jun 2023 - Jun 2023
 The project is to provide in-depth analysis to help the store owners understand their data trends and patterns and provide valuable insights to drive better business decisions.
 
 Skills: Visualization · Pivot Tables · Operative Dashboard · Sales Presentations · Data Cleaning · Data Processing · Microsoft Excel · Data Visualization · Data Analysis
-
+```
 DATA CLEANING and DATA PREPARATION
 
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/257f518f-8527-4bb8-9409-7b1cb69140f1)
@@ -38,7 +38,7 @@ CREATING CHARTS
 
 ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/a49a92f5-bd48-43a6-8c0b-626daf573675) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/ddc900c8-37b4-4c2a-8e24-36a942841fd4) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/ff541ed8-859c-4630-8bf7-dadb6e7fd7ff) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/8ea1b2dc-f613-431d-9dc3-e32d03262593) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/8f9931c2-27b2-4606-b320-024421e39a8e) ![image](https://github.com/Tanishka-Arora/Excel-Projects/assets/119075273/2186b7d5-13ca-40a1-a90f-e6706d0ab23c)
 
-
+```
 
 
 
